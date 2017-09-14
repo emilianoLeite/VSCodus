@@ -7,3 +7,4 @@ Codus' smart defaults for VSCode
 - [ ] criar lista dos nossos settings e extensões
 - [ ] exibir path do arquivo no "title" da janela
 - [ ] conseguir achar um arquivo(`ctrl+t`/`ctrl+p`) dentro de um namespace. Exemplo: `RegistrationBatches::CreateSchema`
+- [ ] colorir a árvore de arquivos pra apontar mudanças/adições
